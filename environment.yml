@@ -15,5 +15,5 @@ dependencies:
 - pip:
   - numpy==1.13.0
   - git+https://github.com/renpy/pygame_sdl2.git
-prefix: /Users/Sayan/miniconda3/envs/minesweeper_pygame
+prefix: /Users/Debanjan/miniconda3/envs/minesweeper_pygame
 
